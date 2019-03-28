@@ -48,4 +48,4 @@ Python 3.5.x installed<br/>
 
 * [TensorFlow 2.0 New Features [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-20-new-features-video)
 
-* [Advanced NLP Projects with TensorFlow 2.0 [Video]]https://prod.packtpub.com/in/application-development/advanced-nlp-projects-tensorflow-20-video)
+* [Advanced NLP Projects with TensorFlow 2.0 [Video]](https://prod.packtpub.com/in/application-development/advanced-nlp-projects-tensorflow-20-video)
